@@ -16,16 +16,16 @@ by Nahee Kim
 
 # Curriculum
 
-week 1 - face tracking - 인지 || 조악한 스냅챗 필터 || p5.js / opencv (helper 성은지)
+week 0 - face tracking - 인지 || 조악한 스냅챗 필터 || p5.js / opencv (helper 성은지)
 
-week 2 - blob - 촉감 || 브라우저에 나타난 출렁출렁한 생명체 || p5.js / simple physics engine (helper 은진수)
+week 1 - blob - 촉감 || 브라우저에 나타난 출렁출렁한 생명체 || p5.js / simple physics engine (helper 은진수)
 
-week 3 - terminal - 설계 || [명령 프롬프트]에 만드는 상상의 건물  || terminal / linux command (helper 임성묵)
+week 2 - terminal - 설계 || [명령 프롬프트]에 만드는 상상의 건물  || terminal / linux command (helper 임성묵)
 
-week 4 - wekinator - 예상 || 내 커서가 향하는 곳만 봐도 || p5.js / simple machine learning (helper 성은지)
+week 3 - wekinator - 예상 || 내 커서가 향하는 곳만 봐도 || p5.js / simple machine learning (helper 성은지)
 
-week 5 - ssh - 통신 || 저렴한 컴퓨터 해킹하기 || Raspberry pi 3 / linux command  (helper 은진수)
+week 4 - ssh - 통신 || 저렴한 컴퓨터 해킹하기 || Raspberry pi 3 / linux command  (helper 은진수)
 
-week 6 - Arduino - 감각 || 1px 영화관 || Arduino uno / Neopixel (helper 류길현)
+week 5 - Arduino - 감각 || 1px 영화관 || Arduino uno / Neopixel (helper 류길현)
 
-week 7 - Final showcase (open to public)
+week 6 - Final showcase (open to public)
