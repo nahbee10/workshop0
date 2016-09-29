@@ -16,7 +16,8 @@ by Nahee Kim
 
 # Curriculum
 
-week 0 - face tracking - 인지 || 조악한 스냅챗 필터 || p5.js / opencv (helper 성은지)
+week 0 - face tracking - 인지 || 조악한 스냅챗 필터 || p5.js / opencv (helper Link: [성은지][ejlink]
+[ejlink]: https://www.facebook.com/eunjee.sung.3 "Go Eunjee")
 
 [intro slide - http://www.mini-virtuality.com/slides/workshop0-0.html]
 
