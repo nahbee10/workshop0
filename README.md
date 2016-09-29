@@ -22,7 +22,7 @@ week 0 - face tracking - 인지 || 조악한 스냅챗 필터 || p5.js / opencv 
 ( [intro slide][introslidelink]
 [introslidelink]: http://www.mini-virtuality.com/slides/workshop0-0.html "Go slide"
  [example][examplelink])
-[exmaplelink]: https://www.mini-virtuality.com/snapchat/index.html "Go ex"
+[examplelink]: https://www.mini-virtuality.com/snapchat/index.html "Go ex"
 
 
 week 1 - blob - 촉감 || 브라우저에 나타난 출렁출렁한 생명체 || p5.js / simple physics engine (helper 은진수)
