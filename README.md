@@ -18,6 +18,9 @@ by Nahee Kim
 
 week 0 - face tracking - 인지 || 조악한 스냅챗 필터 || p5.js / opencv (helper 성은지)
 
+[intro slide - http://www.mini-virtuality.com/slides/workshop0-0.html]
+
+
 week 1 - blob - 촉감 || 브라우저에 나타난 출렁출렁한 생명체 || p5.js / simple physics engine (helper 은진수)
 
 week 2 - terminal - 설계 || [명령 프롬프트]에 만드는 상상의 건물  || terminal / linux command (helper 임성묵)
