@@ -42,6 +42,8 @@ week 6 - Final showcase (open to public)
 # Office Hour
 
 매주 수요일 오후 6-8시
+
 online(Google Hangout: nahbee10) & offline(@SNU : 64-302)
+
 Please sign up before you visit -> [Sign up sheet][bookinglink]
 [bookinglink]:https://docs.google.com/document/d/18527B7ZVyutdsNxiKQU-1dCC7L2puWSLzaSFjBjX-U8/edit?usp=sharing "go booking"
