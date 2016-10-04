@@ -37,3 +37,11 @@ week 4 - ssh - 통신 || 저렴한 컴퓨터 해킹하기 || Raspberry pi 3 / li
 week 5 - Arduino - 감각 || 1px 영화관 || Arduino uno / Neopixel (helper 류길현)
 
 week 6 - Final showcase (open to public)
+
+
+# Office Hour
+
+매주 수요일 오후 6-8시
+online(Google Hangout: nahbee10) & offline(@SNU : 64-302)
+Please sign up before you visit -> [Sign up sheet][bookinglink]
+[bookinglink]:https://docs.google.com/document/d/18527B7ZVyutdsNxiKQU-1dCC7L2puWSLzaSFjBjX-U8/edit?usp=sharing "go booking"
