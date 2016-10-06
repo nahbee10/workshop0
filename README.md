@@ -20,13 +20,17 @@ week 0 - face tracking - 인지 || 조악한 스냅챗 필터 || p5.js / opencv 
 [ejlink]: https://www.facebook.com/eunjee.sung.3 "Go Eunjee")
 
 ( [example][examplelink] | [intro slide][introslidelink] | [js101][js101link] | [main slide][mainslidelink] )
-[examplelink]: https://www.mini-virtuality.com/snapchat/index.html "Go ex"
+[examplelink]: https://www.mini-virtuality.com/week0/index.html "Go ex"
 [introslidelink]: http://www.mini-virtuality.com/slides/workshop0-0.html "Go slide"
 [js101link]: http://www.mini-virtuality.com/slides/workshop0-0-jsgit.html "Go slide js"
 [mainslidelink]: http://www.mini-virtuality.com/slides/workshop0-0-main.html "Go slide main"
 
 
-week 1 - blob - 촉감 || 브라우저에 나타난 출렁출렁한 생명체 || p5.js / simple physics engine (helper 은진수)
+week 1 - blob - 촉감 || 브라우저에 나타난 출렁출렁한 생명체 || p5.js / simple physics engine (helper [성은지][ejlink])
+
+( [example1][examplelink1-1] | [example2][examplelink1-2] )
+[examplelink1-1]: https://www.mini-virtuality.com/week1-0/index.html "Go att repel"
+[examplelink1-2]: https://www.mini-virtuality.com/week1-1/index.html "Go blob"
 
 week 2 - terminal - 설계 || [명령 프롬프트]에 만드는 상상의 건물  || terminal / linux command (helper 임성묵)
 
