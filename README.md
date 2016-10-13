@@ -34,6 +34,7 @@ week 1 - blob - 촉감 || 브라우저에 나타난 출렁출렁한 생명체 ||
 [examplelink1-3]: https://www.mini-virtuality.com/week1-js/index.html "Go js"
 
 week 2 - terminal - 설계 || [명령 프롬프트]에 만드는 상상의 건물  || terminal / linux command (helper [성은지][ejlink])
+
 ( [slide1][week2-slide1] )
 [week2-slide1]: https://www.mini-virtuality.com/slides/workshop0-2.html "Go week2-slide1"
 
