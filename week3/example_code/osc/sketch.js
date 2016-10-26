@@ -50,7 +50,7 @@ function mousePressed(){
 	ellipse(new_x,new_y,new_r,new_r);
 
 	if(isConnected){
-		socket.emit('message', ['/signal', new_x, new_y, new_r, new_c]);
+		socket.emit('message', ['/signal', mouseX,mouseY]);
 	}
 
 }
