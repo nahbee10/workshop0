@@ -41,6 +41,7 @@ week 2 - terminal - 설계 || [명령 프롬프트]에 만드는 상상의 건�
 week 3 - wekinator - 예상 || 내 커서가 향하는 곳만 봐도 || p5.js / simple machine learning (helper 임성묵)
 
 week 4 - ssh - 통신 || 저렴한 컴퓨터 해킹하기 || Raspberry pi 3 / linux command  (helper [성은지][ejlink])
+
 ( [slide1][week4-slide1] )
 [week4-slide1]: https://www.mini-virtuality.com/slides/workshop0-3.html "Go week4-slide1"
 
