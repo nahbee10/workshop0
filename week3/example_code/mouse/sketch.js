@@ -148,13 +148,13 @@ function receiveOsc(address, value) {
 	// 각 output에 원하는 기능/메시지를 넣을 수 있는 부분입니다. 
 	switch(address){
 		case '/output_1':
-			deliveredM = '세모';
+			deliveredM = '세로';
 			break;
 		case '/output_2':
-			deliveredM = '네모';
+			deliveredM = '가로';
 			break;
 		case '/output_3':
-			deliveredM = '동그라미';
+			deliveredM = '대각선';
 			break;
 		case '/output_4':
 			deliveredM = '';
