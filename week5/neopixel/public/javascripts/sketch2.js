@@ -14,7 +14,7 @@ function setup() {
  myVideo = createVideo(['images/rocky.mp4']);
  myVideo.crossOrigin='Anonymous';
  //myVideo.loop();
- //myVideo.hide();
+ myVideo.hide();
 
  button = createButton('play');
  button.mousePressed(toggleVid); 
