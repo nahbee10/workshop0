@@ -4,6 +4,8 @@ var inData;                            // for incoming serial data
 var outByte = 0;                       // for outgoing data
 var myVideo;
 var w = 640, h = 360; 
+var button;
+var playing = false;
 
 
 function setup() {
@@ -11,13 +13,27 @@ function setup() {
  createCanvas(w, h);          // make the canvas
  myVideo = createVideo(['images/rocky.mp4']);
  myVideo.crossOrigin='Anonymous';
- myVideo.loop();
- myVideo.hide();
+ //myVideo.loop();
+ //myVideo.hide();
+
+ button = createButton('play');
+ button.mousePressed(toggleVid); 
 
  serial = new p5.SerialPort();    // make a new instance of the serialport library
  serial.on('data', serialEvent);  // callback for when new data arrives
  serial.on('error', serialError); // callback for errors
  serial.open(portName);           // open a serial port
+}
+
+function toggleVid() {
+  if (playing) {
+    myVideo.pause();
+    button.html('play');
+  } else {
+    myVideo.loop();
+    button.html('pause');
+  }
+  playing = !playing;
 }
 
 function serialEvent() {
@@ -33,7 +49,7 @@ function serialError(err) {
 
 function draw() {
  // black background, white text:
- image(myVideo,0,0); 
+ //image(myVideo,0,0); 
  myVideo.loadPixels();
 
  if(frameCount%5 == 0){
