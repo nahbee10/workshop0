@@ -49,7 +49,7 @@ function serialError(err) {
 
 function draw() {
  // black background, white text:
- //image(myVideo,0,0); 
+ image(myVideo,0,0); 
  myVideo.loadPixels();
 
  if(frameCount%5 == 0){
