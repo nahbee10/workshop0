@@ -57,6 +57,12 @@ week 5 - Arduino - sense || 1px theater || Arduino uno / Neopixel (T.A. Sungmuk 
 
 week 6 - Final showcase (open to public)
 
+# Website
+
+Online exhibition of homework sketches
+
+( [http://mini-virtuality.com/workshop0][w0] )
+[w0]: http://mini-virtuality.com/workshop0 "Go w0"
 
 # Office Hour
 
@@ -66,3 +72,17 @@ online(Google Hangout: nahbee10) & offline(@SNU : 64-302)
 
 Please sign up before you visit -> [Sign up sheet][bookinglink]
 [bookinglink]:https://docs.google.com/document/d/18527B7ZVyutdsNxiKQU-1dCC7L2puWSLzaSFjBjX-U8/edit?usp=sharing "go booking"
+
+# Results
+
+![alt tag](https://nahbee10.github.io/cre8s/mpoemgithub.png)
+
+workshop0 final show & presentation
+
+@Sangsu-Dong, Seoul
+NOV 17 2016, 7-10pm
+
+Eight participants exhibited their final works.
+
+About fifty people came to see the exhibition.
+
