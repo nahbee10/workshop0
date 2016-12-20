@@ -75,12 +75,13 @@ Please sign up before you visit -> [Sign up sheet][bookinglink]
 
 # Results
 
-![alt tag](https://nahbee10.github.io/cre8s/mpoemgithub.png)
+![alt tag](https://nahbee10.github.io/finalshow.jpg)
 
 workshop0 final show & presentation
 
 @Sangsu-Dong, Seoul
 NOV 17 2016, 7-10pm
+
 
 Eight participants exhibited their final works.
 
